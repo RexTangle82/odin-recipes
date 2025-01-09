@@ -1,6 +1,7 @@
 * {
     font-family: Verdana, sans-serif;
     text-wrap: balance;
+    background-color: darkgray;
 }
 
 h1 {
@@ -32,4 +33,26 @@ h1.jalapeno-poppers {
 
 h2.jalapeno-poppers {
     color: rgb(211, 167, 84);
+}
+
+.menu-item {
+    text-align: center;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.homepage {
+    text-align: center;
+}
+
+div {
+    margin: 40px;
+}
+
+.homepage h1 {
+    background-color: black;
+    color: darkgrey;
+    padding: 20px 100px;
+    margin: -40px -48px 0;
 }
